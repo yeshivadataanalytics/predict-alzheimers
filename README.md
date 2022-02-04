@@ -1,1 +1,1 @@
-# ai-spring2022
+#predict-alzheimers
